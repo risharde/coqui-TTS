@@ -1,0 +1,1 @@
+docker run --rm -it -p 5002:5002 risharde/ai:coqui-tts-server-cpu-latest
